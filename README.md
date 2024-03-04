@@ -33,9 +33,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Sponsors ✨
 
-|                                                                                    Sponsors                                                                                     |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://coreinitiative.id/" target="_blank"><img src="https://github.com/typicode/json-server/assets/80201030/86d8190a-0c8a-4cee-802d-25e4363add49" height="70px"></a> |
-|     <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/typicode/json-server/assets/80201030/270bef1c-0d4d-4232-a144-55d918d2ccb7" height="40px"></a>     |
-
-|
+|                                                                                     Sponsors                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://coreinitiative.id/" target="_blank"><img src="https://github.com/typicode/json-server/assets/80201030/86d8190a-0c8a-4cee-802d-25e4363add49" height="100px"></a> |
+|     <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/typicode/json-server/assets/80201030/270bef1c-0d4d-4232-a144-55d918d2ccb7" height="100px"></a>     |
